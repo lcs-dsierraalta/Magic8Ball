@@ -8,7 +8,6 @@
 import Foundation
 
 print("Magic 8-Ball 🎱")
-print("Ask a question")
 print("")
 
 
