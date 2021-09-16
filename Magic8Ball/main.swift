@@ -7,5 +7,8 @@
 
 import Foundation
 
-print("Hello, World!")
+print("Magic 8-Ball 🎱")
+print("Ask a question")
+print("")
+
 
